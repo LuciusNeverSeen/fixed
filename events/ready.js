@@ -7,7 +7,7 @@ const activities_list = [
 ]; // creates an arraylist containing phrases you want your bot to switch through.
 console.log("mai")
 client.on('ready', () => {
-
+console.log("nay")
       console.log(`${client.user.tag} is online`)
 
     setInterval(() => {
